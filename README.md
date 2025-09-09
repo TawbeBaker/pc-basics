@@ -1,9 +1,9 @@
 # 🖥️ PC Basics — Simple Notes for Beginners
 
 Welcome! This repo is my personal knowledge base about **computers** and how they work.  
-I write short, friendly notes for myself and anyone starting out.
+I write short, friendly notes for myself and anyone starting out. In case I ever get dementia, I could come back here :) .
 
-> **Goal:** explain the essentials in plain language, with quick diagrams, examples, and key takeaways.
+> **Goal:** explain the essentials in plain language and easy keywords, while refering to examples like the human body.
 
 ---
 
@@ -30,9 +30,6 @@ I write short, friendly notes for myself and anyone starting out.
 
 ---
 
-## ✍️ Style
-- Short sections, clear headers, small diagrams
-- Everyday examples
-- Each file ends with **Key takeaway**
 
-> This is a living project — I’ll keep improving as I learn. Contributions and suggestions are welcome!
+
+> This is a living project — I’ll keep improving as I learn, and if i have time. Contributions and suggestions are welcome!
