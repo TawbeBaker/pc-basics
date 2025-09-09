@@ -1,3 +1,38 @@
+## Table of Contents
+
+- [1) Big Picture: From URL to Pixel](#1-big-picture-from-url-to-pixel)
+- [2) Naming Things: DNS](#2-naming-things-dns)
+- [3) Finding Machines: IP, Subnets, and Ports](#3-finding-machines-ip-subnets-and-ports)
+- [4) Getting There: Routing, NAT, and Firewalls](#4-getting-there-routing-nat-and-firewalls)
+- [5) Speaking Clearly: TCP vs UDP & Congestion Control](#5-speaking-clearly-tcp-vs-udp--congestion-control)
+- [6) Making It Private: TLS/HTTPS](#6-making-it-private-tlshttps)
+- [7) Web on Top: HTTP/1.1 vs HTTP/2 vs HTTP/3](#7-web-on-top-http11-vs-http2-vs-http3)
+- [8) Speed at Scale: Caching, CDNs, Anycast, Load Balancers](#8-speed-at-scale-caching-cdns-anycast-load-balancers)
+- [9) Wireless & Wired (Very Short)](#9-wireless--wired-very-short)
+- [10) Tools of the Trade (No commands)](#10-tools-of-the-trade-no-commands)
+- [11) Common Pitfalls & Weird Errors](#11-common-pitfalls--weird-errors)
+- [12) Glossary (Fast Definitions)](#12-glossary-fast-definitions)
+- [13) Further Reading](#13-further-reading)
+- [14) Final Takeaway](#14-final-takeaway)
+
+Bonus
+
+- [OSI 7-Layer Model — Simple, User-Friendly Guide](#osi-7-layer-model--simple-user-friendly-guide)
+  - [Layer-by-Layer (Quick & Practical)](#layer-by-layer-quick--practical)
+    - [7) Application](#7-application)
+    - [6) Presentation](#6-presentation)
+    - [5) Session](#5-session)
+    - [4) Transport](#4-transport)
+    - [3) Network](#3-network)
+    - [2) Data Link](#2-data-link)
+    - [1) Physical](#1-physical)
+  - [Encapsulation & PDUs](#encapsulation--pdus)
+  - [OSI vs TCP/IP (Mapping)](#osi-vs-tcpip-mapping)
+  - [Which Layer? (Cheat Sheet)](#which-layer-cheat-sheet)
+  - [Easy Mnemonics](#easy-mnemonics)
+  - [Final Takeaway](#final-takeaway-1)
+
+
 # 🌐 How the Internet Works
 
 This is a plain-English tour from **typing a URL** to **seeing pixels on your screen**.  
@@ -356,5 +391,6 @@ The OSI model is a **thinking tool**. Use it to:
 - And debug faster by asking: **“Which layer is broken?”**
 
 Once you see how **apps → transport → IP → link → wires** fit together, networks stop feeling like magic—and start feeling logical.
+
 
 
