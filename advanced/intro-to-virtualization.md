@@ -1,4 +1,4 @@
-# 📦 Intro to Virtualization (Beginner-Friendly Essentials)
+# 📦 Intro to Virtualization (in simple terms, a computer in a computer. 1 physical PC = many logical PCs)
 
 **Virtualization** lets one physical computer run **multiple isolated computers** (called **virtual machines**, or **VMs**) at the same time.  
 Each VM *thinks* it has its own CPU, memory, disk, and network—even though it’s sharing the real hardware.
@@ -194,3 +194,4 @@ When you only need to isolate **apps**, look at **containers**; when you need a 
 Virtualization gives you **safe, flexible sandboxes** to learn, test, and build—without extra hardware.  
 Start with a simple VM, learn snapshots, explore networking modes, and grow from there.  
 When you only need to isolate **apps**, look at **containers**; when you need a whole **machine**, use **VMs**.
+
