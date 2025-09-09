@@ -1,7 +1,8 @@
 # 🖥️ What is a PC?
 
-A **PC (Personal Computer)** is a general-purpose machine designed for individual use.  
+A **PC (Personal Computer)** is a general-purpose machine designed for individual use.
 It combines **hardware** (the physical parts) and **software** (programs, data, instructions) to perform tasks.
+On the other hand, simply a computer can be a machine desgin to accomplish or help accomplish a precise task.
 
 ---
 
@@ -40,13 +41,19 @@ When you turn on a PC:
 ---
 
 ## ⚡ Evolution
-- **Desktop PCs** → stationary, customizable.  
-- **Laptops** → portable, all-in-one.  
-- **Workstations** → high-performance PCs for professionals.  
-- **Servers** → specialized PCs that serve many users over networks.  
+- **Desktop PCs** → stationary, customizable, great for upgrades and gaming.  
+- **Laptops** → portable, all-in-one devices for mobility.  
+- **Workstations** → high-performance PCs built for heavy professional workloads (3D, video editing, data science).  
+- **Servers** → specialized computers that provide services or data to many users over a network.  
+- **Specialized Computers** → smaller or task-focused systems:
+  - **Raspberry Pi** → low-cost mini-computer, great for projects, IoT, and learning.  
+  - **Arduino (microcontroller)** → not a full PC, but a small board designed to control sensors, motors, and electronics projects.  
+  - **Embedded Systems** → computers hidden inside devices (like cars, washing machines, or smart TVs).  
+
 
 ---
 
 🔎 **Key takeaway:** A PC is a combination of hardware and software working together to let you compute, create, and connect.
+
 
 
