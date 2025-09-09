@@ -1,7 +1,7 @@
 # 🧩 Hardware vs Software
 
 Computers have two main sides: **hardware** and **software**.  
-They depend on each other — one cannot work without the other.  
+They depend on each other --> one cannot work without the other.  
 
 ---
 
@@ -25,8 +25,8 @@ Software = the **programs and data** that tell the hardware what to do.
 Examples:
 - Operating Systems: Windows, Linux, macOS  
 - Applications: Microsoft Word, Chrome, Photoshop  
-- Games 🎮  
-- Drivers (small programs that let hardware work with the OS)  
+- Games 🎮  : Shoutout to Aperature Science
+- Drivers (small programs that let hardware work with the OS, kind of like translators)  
 - Files: text documents, videos, music 🎶  
 
 ---
@@ -49,3 +49,4 @@ The mind without a body can’t interact with the world.
 ---
 
 🔎 **Key takeaway:** Hardware is the physical machine, software is the digital logic. Together, they make a computer useful.
+
