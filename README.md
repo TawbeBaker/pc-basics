@@ -32,4 +32,4 @@ I write short, friendly notes for myself and anyone starting out. In case I ever
 
 
 
-> This is a living project — I’ll keep improving as I learn, and if i have time. Contributions and suggestions are welcome!
+> This is a learning project. I’ll probabaly keep improving as I learn, and if I have time. Contributions and suggestions are welcome!
